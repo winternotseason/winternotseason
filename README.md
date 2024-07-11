@@ -1,5 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Welcome%20to%20WNS's%20GitHub%20👋&animation=twinkling&fontSize=35&fontAlignY=40&fontAlign=70&height=250)
-
+https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=Welcome%20to%20WNS's%20Github!&fontAlign=50&animation=twinkling&fontColor=000009
 <!--
 **winternotseason/winternotseason** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
