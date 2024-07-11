@@ -28,7 +28,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/NextJS-000000?style=flat-square&logo=nextdotjs&logoColor=white"/></a>&nbsp
   <br>
   <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/styled-components-DB7093?style=flat-square&logo=styledcomponents&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/styledComponents-DB7093?style=flat-square&logo=styledcomponents&logoColor=white"/></a>&nbsp
   <br>
   <img src="https://img.shields.io/badge/Mysql-E6B91E?style=flat-square&logo=MySql&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Mongodb-47A248?style=flat-square&logo=mongodb&logoColor=white"/></a>&nbsp 
