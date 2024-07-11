@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 
 <h3 align="center">🌈 Follow Me 🌈</h3>
 <p align="center">
-  <a href="https://seodevelopment.tistory.com/"><img src="https://img.shields.io/badge/tistory-000000?style=flat-square&logo=Vimeo&logoColor=white&link=https://seodevelopment.tistory.com/"/></a>&nbsp
+  <a href="https://seodevelopment.tistory.com/"><img src="https://img.shields.io/badge/Blog-000000?style=flat-square&logo=tistory&logoColor=white&link=https://seodevelopment.tistory.com/"/></a>&nbsp
   <a href="https://www.instagram.com/dev.dobby/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/hye_inisfree/"/></a>&nbsp
   <a href="mailto:kimhyein7110@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=kimhyein7110@gmail.com"/></a>
 </p>
