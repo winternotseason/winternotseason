@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=winternotseason&layout=compact)
-<div align="center"><h3 align="center">📚 Tech Stack 📚</h3></div>
+<div align="center">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=winternotseason&layout=compact)</div>
+<h3 align="center">📚 Tech Stack 📚</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Html-E34F26?style=flat-square&logo=html5&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white"/></a>&nbsp 
