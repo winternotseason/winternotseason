@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 -->
 
 <h3 align="center">👩🏻‍💻 개발자 황서연의 Github</h3>
-<p align="center">제 github를 방문해주셔서 감사합니다! 😊</p>
+<p align="center">제 github에 방문해주셔서 감사합니다.</p>
 <hr />
 <p align="center"></p>
 <h3 align="center">🖥️ 포트폴리오 사이트</h3>
