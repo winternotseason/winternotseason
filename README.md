@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=Welcome%20to%20WNS's%20Github!&fontColor=494949&animation=twinkling)
+![a6e2b9fad1cbbe9caf425a50004e0e04e0d21f7c](https://github.com/user-attachments/assets/42ccb70b-0256-450e-877e-8eec296c8c11)
 
 
 <!--
