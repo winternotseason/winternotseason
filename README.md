@@ -44,6 +44,7 @@ Here are some ideas to get you started:
 
 <h3 align="center">► Contact</h3>
 <p align="center">
-  <a href="https://seodevelopment.tistory.com/"><img src="https://img.shields.io/badge/Blog-000000?style=flat-square&logo=tistory&logoColor=white&link=https://seodevelopment.tistory.com/"/></a>&nbsp
+  <a href="https://open.kakao.com/o/syobaDDg"><img src="https://img.shields.io/badge/Kakao-FFCD00?style=flat-square&logo=kakaotalk&logoColor=white&link=https://open.kakao.com/o/syobaDDg"/></a>&nbsp
+   <a href="https://www.instagram.com/xitseo/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/xitseo/"/></a>&nbsp
   <a href="mailto:xitseo@naver.com"><img src="https://img.shields.io/badge/mail-03C75A?style=flat-square&logo=naver&logoColor=white&link=xitseo@naver.com"/></a>
 </p>
